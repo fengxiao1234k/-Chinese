@@ -94,4 +94,3 @@ VALUES
 
 	('en_US',	'LOC_PEDIA_UNITS_PAGE_UNIT_SR_MONDSTADT_UU_CHAPTER_HISTORY_PARA_1',  	
 	'侦察骑士，是安柏的祖父一手建立并率领的，西风骑士团骑士兵种分支之一。 侦察骑士接受了安柏祖父的训练，学会了他的射箭招式和使用风之翼的技巧，并以其技能而闻名。'	);
-

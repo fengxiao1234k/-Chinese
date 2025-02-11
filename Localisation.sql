@@ -7,91 +7,91 @@
 INSERT INTO LocalizedText
 			(Language, Tag, Text)
 VALUES
-	('en_US',	'LOC_CIVILIZATION_SR_MONDSTADT_NAME',			'Mondstadt'						),
-	('en_US',	'LOC_CIVILIZATION_SR_MONDSTADT_DESCRIPTION',	'Mondstadt, City of Freedom'	),
-	('en_US',	'LOC_CIVILIZATION_SR_MONDSTADT_ADJECTIVE',  	'Mondstadt'						),
+	('en_US',	'LOC_CIVILIZATION_SR_MONDSTADT_NAME',			'蒙德'						),
+	('en_US',	'LOC_CIVILIZATION_SR_MONDSTADT_DESCRIPTION',	'蒙德, 自由之都'	),
+	('en_US',	'LOC_CIVILIZATION_SR_MONDSTADT_ADJECTIVE',  	'蒙德'						),
 
-	('en_US',	'LOC_TRAIT_CIVILIZATION_SR_WIND_GLIDERS_AND_WINE_NAME',				'Wind Gliders and Wine'				),
+	('en_US',	'LOC_TRAIT_CIVILIZATION_SR_WIND_GLIDERS_AND_WINE_NAME',				'风之翼 与 葡萄酒'				),
 	('en_US',	'LOC_TRAIT_CIVILIZATION_SR_WIND_GLIDERS_AND_WINE_DESCRIPTION',	
-	'Non-Recon Military and Support Land units ignore the movement penalty from Hills.[NEWLINE]Plantations yield an additional +2 Culture [ICON_Culture] and +1 Amenity [ICON_Amenities].'	),
+	'非侦察军事单位和支援陆地单位无视来自丘陵的移动惩罚。[NEWLINE]种植园额外 +2 文化值 [ICON_Culture] 以及 +1 宜居度 [ICON_Amenities]。'	),
 
-	('en_US',	'LOC_ABILITY_SR_WIND_GLIDER_NAME',			'Wind Glider'									),
-	('en_US',	'LOC_ABILITY_SR_WIND_GLIDER_DESCRIPTION',	'Unit ignores movement penalty from hills'		),
+	('en_US',	'LOC_ABILITY_SR_WIND_GLIDER_NAME',			'风之翼'									),
+	('en_US',	'LOC_ABILITY_SR_WIND_GLIDER_DESCRIPTION',	'无视来自丘陵的移动惩罚'		),
 
 
-	('en_US',	'LOC_BUILDING_SR_FAVONIUS_CATHEDRAL_NAME',				'Favonius Cathedral'								),
+	('en_US',	'LOC_BUILDING_SR_FAVONIUS_CATHEDRAL_NAME',				'西风大教堂'								),
 	('en_US',	'LOC_BUILDING_SR_FAVONIUS_CATHEDRAL_DESCRIPTION',
-	'The Church of Favonius'' place of worship to Barbatos.[NEWLINE]Replaces the Temple. Allows the purchasing of Apostles and Inquisitors with Faith [ICON_Faith].[NEWLINE]Grants a Relic [ICON_GreatWork_Relic] upon completion. +50% [ICON_GreatPerson] Great People points generated per turn in the city.'	),
+	'西风大教堂，是风神信徒们向巴巴托斯祈祷的宏伟圣堂。[NEWLINE]取代寺庙，解锁后可用信仰值购买使徒和审判官 [ICON_Faith]。[NEWLINE]建成后获得一个遗物 [ICON_GreatWork_Relic] 。 遗物所在城市+50%每回合伟人点数 [ICON_GreatPerson] 。'	),
 
 
-	('en_US',	'LOC_UNIT_SR_OUTRIDER_NAME',	'Outrider'	),
+	('en_US',	'LOC_UNIT_SR_OUTRIDER_NAME',	'侦察骑士'	),
 	('en_US',	'LOC_UNIT_SR_OUTRIDER_DESCRIPTION',	 
-	'A unit of the Knights of Favonius Outrider division. Replaces the scout with a stronger combat strength [ICON_Strength], vision and the ability to choose Tribal Village boons.'	),
+	'侦察骑士是西风骑士团的兵种之一。 取代侦察兵，拥有更强的近战攻击力 [ICON_Strength]，拥有更远的视野，拥有自选部落村庄奖励的能力。'	),
 
-	('en_US',	'LOC_ABILITY_SR_OUTRIDER',  '+8 [ICON_Strength] Combat Strength. +1 Sight. Can choose bonuses from Tribal Villages.'	),
-
-
-	('en_US',	'LOC_NAMED_MOUNTAIN_DRAGONSPINE',			'Dragonspine'			),
-	('en_US',	'LOC_NAMED_MOUNTAIN_BRIGHTCROWN_MOUNTAIN',	'Brightcrown Mountain'	),
-	('en_US',	'LOC_NAMED_MOUNTAIN_STORMBEARER_MOUNTAIN',	'Stormbearer Mountain'	),
+	('en_US',	'LOC_ABILITY_SR_OUTRIDER',  '+8 [ICON_Strength] 攻击力。 +1 视野。 可以自选部落村庄的奖励。'	),
 
 
-	('en_US',	'LOC_NAMED_LAKE_CIDER_LAKE',				'Cider Lake'		),
-	('en_US',	'LOC_NAMED_LAKE_STARFELL_LAKE',				'Starfell Lake'		),
-
-	('en_US',	'LOC_NAMED_SEA_MUSK_REEF',					'Musk Reef'		),
-	('en_US',	'LOC_NAMED_SEA_FALCON_COAST',				'Falcon Coast'		),
+	('en_US',	'LOC_NAMED_MOUNTAIN_DRAGONSPINE',			'龙脊雪山'			),
+	('en_US',	'LOC_NAMED_MOUNTAIN_BRIGHTCROWN_MOUNTAIN',	'明冠山地'	),
+	('en_US',	'LOC_NAMED_MOUNTAIN_STORMBEARER_MOUNTAIN',	'望风山地'	),
 
 
-	('en_US',	'LOC_CITY_NAME_MONDSTADT_CITY',  'Mondstadt City'),
-	('en_US',	'LOC_CITY_NAME_DAWN_WINERY',  'Dawn Winery'),
-	('en_US',	'LOC_CITY_NAME_SPRINGVALE',  'Springvale'),
-	('en_US',	'LOC_CITY_NAME_WOLVENDOM',  'Wolvendom'),
-	('en_US',	'LOC_CITY_NAME_THOUSAND_WINDS_TEMPLE',  'Thousand Winds Temple'),
-	('en_US',	'LOC_CITY_NAME_GALESONG_HILL',  'Galesong Hill'),
-	('en_US',	'LOC_CITY_NAME_STARFELL_VALLEY',  'Starfell Valley'),
-	('en_US',	'LOC_CITY_NAME_CAPE_OATH',  'Cape Oath'),
-	('en_US',	'LOC_CITY_NAME_DADAUPA_GORGE',  'Dadaupa Gorge'),
-	('en_US',	'LOC_CITY_NAME_BRIGHTCROWN_CANYON',  'Brightcrown Canyon'),
-	('en_US',	'LOC_CITY_NAME_STORMTERRORS_LAIR',  'Stormterrors Lair'),
-	('en_US',	'LOC_CITY_NAME_WYRMREST_VALLEY',  'Wyrmrest Valley'),
-	('en_US',	'LOC_CITY_NAME_STARGLOW_CAVERN',  'Starglow Cavern'),
-	('en_US',	'LOC_CITY_NAME_ENTOMBED_CITY',  'Entombed City'),
-	('en_US',	'LOC_CITY_NAME_WHISPERING_WOODS',  'Whispering Woods'),
-	('en_US',	'LOC_CITY_NAME_WINDWAIL_HIGHLAND',  'Windwail Highland'),
+	('en_US',	'LOC_NAMED_LAKE_CIDER_LAKE',				'果酒湖'		),
+	('en_US',	'LOC_NAMED_LAKE_STARFELL_LAKE',				'星落湖'		),
+
+	('en_US',	'LOC_NAMED_SEA_MUSK_REEF',					'马斯克礁'		),
+	('en_US',	'LOC_NAMED_SEA_FALCON_COAST',				'鹰翔海滩'		),
+
+
+	('en_US',	'LOC_CITY_NAME_MONDSTADT_CITY',  '蒙德城'),
+	('en_US',	'LOC_CITY_NAME_DAWN_WINERY',  '晨曦酒庄'),
+	('en_US',	'LOC_CITY_NAME_SPRINGVALE',  '清泉镇'),
+	('en_US',	'LOC_CITY_NAME_WOLVENDOM',  '奔狼领'),
+	('en_US',	'LOC_CITY_NAME_THOUSAND_WINDS_TEMPLE',  '千风神殿'),
+	('en_US',	'LOC_CITY_NAME_GALESONG_HILL',  '风啸山坡'),
+	('en_US',	'LOC_CITY_NAME_STARFELL_VALLEY',  '坠星山谷'),
+	('en_US',	'LOC_CITY_NAME_CAPE_OATH',  '誓言岬'),
+	('en_US',	'LOC_CITY_NAME_DADAUPA_GORGE',  '达达乌帕谷'),
+	('en_US',	'LOC_CITY_NAME_BRIGHTCROWN_CANYON',  '明冠峡'),
+	('en_US',	'LOC_CITY_NAME_STORMTERRORS_LAIR',  '风龙废墟'),
+	('en_US',	'LOC_CITY_NAME_WYRMREST_VALLEY',  '眠龙谷'),
+	('en_US',	'LOC_CITY_NAME_STARGLOW_CAVERN',  '星荧洞窟'),
+	('en_US',	'LOC_CITY_NAME_ENTOMBED_CITY',  '雪葬之都'),
+	('en_US',	'LOC_CITY_NAME_WHISPERING_WOODS',  '低语森林'),
+	('en_US',	'LOC_CITY_NAME_WINDWAIL_HIGHLAND',  '苍风高地'),
 	
 
-	('en_US',	'LOC_CITIZEN_SR_ALBEDO',	'Albedo'	),
-	('en_US',	'LOC_CITIZEN_SR_BENNETT',	'Bennett'	),
-	('en_US',	'LOC_CITIZEN_SR_DILUC',		'Diluc'		),
-	('en_US',	'LOC_CITIZEN_SR_KAEYA',		'Kaeya'		),
-	('en_US',	'LOC_CITIZEN_SR_MIKA',		'Mika'		),
-	('en_US',	'LOC_CITIZEN_SR_RAZOR',		'Razor'		),
-	('en_US',	'LOC_CITIZEN_SR_VENTI',		'Venti'		),
-	('en_US',	'LOC_CITIZEN_SR_AMBER',		'Amber'		),
-	('en_US',	'LOC_CITIZEN_SR_BARBARA',	'Barbara'	),
-	('en_US',	'LOC_CITIZEN_SR_DIONA',		'Diona'		),
-	('en_US',	'LOC_CITIZEN_SR_EULA',		'Eula'		),
-	('en_US',	'LOC_CITIZEN_SR_FISCHL',	'Fischl'	),
-	('en_US',	'LOC_CITIZEN_SR_JEAN',		'Jean'		),
-	('en_US',	'LOC_CITIZEN_SR_KLEE',		'Klee'		),
-	('en_US',	'LOC_CITIZEN_SR_LISA',		'Lisa'		),
-	('en_US',	'LOC_CITIZEN_SR_MONA',		'Mona'		),
-	('en_US',	'LOC_CITIZEN_SR_NOELLE',	'Noelle'	),
-	('en_US',	'LOC_CITIZEN_SR_ROSARIA',	'Rosaria'	),
-	('en_US',	'LOC_CITIZEN_SR_SUCROSE',	'Sucrose'	),
+	('en_US',	'LOC_CITIZEN_SR_ALBEDO',	'阿贝多'	),
+	('en_US',	'LOC_CITIZEN_SR_BENNETT',	'班尼特'	),
+	('en_US',	'LOC_CITIZEN_SR_DILUC',		'迪卢克'		),
+	('en_US',	'LOC_CITIZEN_SR_KAEYA',		'凯亚'		),
+	('en_US',	'LOC_CITIZEN_SR_MIKA',		'米卡'		),
+	('en_US',	'LOC_CITIZEN_SR_RAZOR',		'雷泽'		),
+	('en_US',	'LOC_CITIZEN_SR_VENTI',		'温迪'		),
+	('en_US',	'LOC_CITIZEN_SR_AMBER',		'安柏'		),
+	('en_US',	'LOC_CITIZEN_SR_BARBARA',	'芭芭拉'	),
+	('en_US',	'LOC_CITIZEN_SR_DIONA',		'迪奥娜'		),
+	('en_US',	'LOC_CITIZEN_SR_EULA',		'优菈'		),
+	('en_US',	'LOC_CITIZEN_SR_FISCHL',	'菲谢尔'	),
+	('en_US',	'LOC_CITIZEN_SR_JEAN',		'琴'		),
+	('en_US',	'LOC_CITIZEN_SR_KLEE',		'可莉'		),
+	('en_US',	'LOC_CITIZEN_SR_LISA',		'丽莎'		),
+	('en_US',	'LOC_CITIZEN_SR_MONA',		'莫娜'		),
+	('en_US',	'LOC_CITIZEN_SR_NOELLE',	'诺艾尔'	),
+	('en_US',	'LOC_CITIZEN_SR_ROSARIA',	'罗莎莉亚'	),
+	('en_US',	'LOC_CITIZEN_SR_SUCROSE',	'砂糖'	),
 	
 
-	('en_US',	'LOC_CIVINFO_SR_MONDSTADT_LOCATION',		'Teyvat'			),
-	('en_US',	'LOC_CIVINFO_SR_MONDSTADT_SIZE',			'3.87 km�'			),
-	('en_US',	'LOC_CIVINFO_SR_MONDSTADT_POPULATION',		'c. 1000'			),
-	('en_US',	'LOC_CIVINFO_SR_MONDSTADT_CAPITAL',			'Mondstadt City'	),
+	('en_US',	'LOC_CIVINFO_SR_MONDSTADT_LOCATION',		'提瓦特'			),
+	('en_US',	'LOC_CIVINFO_SR_MONDSTADT_SIZE',			'3.87 平方公里'			),
+	('en_US',	'LOC_CIVINFO_SR_MONDSTADT_POPULATION',		'约 1000'			),
+	('en_US',	'LOC_CIVINFO_SR_MONDSTADT_CAPITAL',			'蒙德城'	),
 
 
 	('en_US',	'LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SR_MONDSTADT_CHAPTER_HISTORY_PARA_1',		
-	'A city of freedom that lies in the northeast of Teyvat. From amongst mountains and wide-open plains, carefree breezes carry the scent of dandelions � a gift from the Anemo God, Barbatos � across Cider Lake to Mondstadt, which sits on an island in the middle of the lake.'),	
+	'一座位于提瓦特东北部的自由之都。 从群山和开阔的平原中，无忧无虑的微风吹拂而来的蒲公英香 —— 这是风神巴巴托斯的礼物 —— 蒙德城被果酒湖包围，坐落在湖中央岛屿。'),	
 	
 
 	('en_US',	'LOC_PEDIA_UNITS_PAGE_UNIT_SR_MONDSTADT_UU_CHAPTER_HISTORY_PARA_1',  	
-	'A subdivision of the Knights established and led by Amber''s grandfather. They were trained in his style of archery and use of wind gliders, and were renowned for their skill'	);
+	'侦察骑士，是安柏的祖父一手建立并率领的，西风骑士团骑士兵种分支之一。 侦察骑士接受了安柏祖父的训练，学会了他的射箭招式和使用风之翼的技巧，并以其技能而闻名。'	);
 
